@@ -1,0 +1,6 @@
+Change log:
+
+- Updated the base Node.js version in the Dockerfile to node:21.5.0-alpine3.19. It was easier to fix the most of Dockerfile problems.
+- Changed the CMD command in the Dockerfile to start the Node.js application to "CMD node index.js".
+- Improved code formatting in index.js for better readability.
+- Enhanced JSON formatting in package.json for better readability.
