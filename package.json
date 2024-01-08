@@ -9,6 +9,5 @@
   "author": "DevOps",
   "license": "MIT",
   "dependencies": {
-    "http": "^0.0.1"
   }
 }
